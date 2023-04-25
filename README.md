@@ -4,7 +4,6 @@ Well This Is The Mod For You.
 
 - This Mod Is Controlled With GUI
 - Can Be Toggled With Computer Interface
-- This Mod Is Not Well Made
 - Possible Active Updates
 
 # ScreenShots
